@@ -15,7 +15,7 @@ I am software engineer with full stack data professional speciality based in Del
 
 ## 🌟 About Me
 
-Azure Data Engineer with expertise in Azure Data Factory, Synapse Analytics, PySpark, and Power BI. She designs scalable ETL/ELT pipelines, optimizes data models, and delivers business intelligence solutions. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
+Azure Data Engineer with expertise in Azure Data Factory, Synapse Analytics, PySpark, and Power BI. I design scalable ETL/ELT pipelines, optimizes data models, and delivers business intelligence solutions. My journey in data engineering has just begun, but I'm enthusiastic about learning and growing in this dynamic field.
 
 - 🔭 Currently working on: Azure-based data architectures, CI/CD automation, and REST API integrations.
 
