@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanya Sehgal</h1>
-<h3 align="center">Cloud Data Professional | Data Enthusiast | BI & Analytics Specialist</h3>
+<h3 align="center">Full Stack Data Professional | Data Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/TanyaSehgal16">
@@ -9,7 +9,7 @@
 
 ---
 
-I am software engineer with full stack data professional speciality based in Delhi, India, with 5+ years of experience in managing data heavy software application with data pipelines and analytics.
+I am CS engineer with full stack data professional speciality based in Delhi, India, with 5+ years of experience in managing data heavy software application with data pipelines and analytics.
 
 ---
 
